@@ -32,7 +32,12 @@ package examples;
 
 public class Find extends javax.swing.JFrame {
     
-    /** Creates new form Find */
+    /** Creates new form Find 
+     sdg
+     sd
+     * dfbdfb
+     * dfbdf
+     */
     public Find() {
         initComponents();
     }
